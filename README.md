@@ -2,6 +2,10 @@
 
 本仓库保存整理后的个人简历文件。
 
+## 创意图片
+
+- [`artwork/dog_walking_man_cartoon.png`](artwork/dog_walking_man_cartoon.png)：西装狗牵着紫色西装人物的统一卡通风格合成图。
+
 ## 文件说明
 
 - [`resume/Zhang_Yuanmin_Resume.pdf`](resume/Zhang_Yuanmin_Resume.pdf)：单页 A4 PDF，可直接下载、打印或投递。
